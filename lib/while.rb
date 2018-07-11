@@ -6,5 +6,4 @@ def using_while
 	x+=1 
 	end 
 end
-using_while
 
